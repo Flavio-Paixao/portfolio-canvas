@@ -37,6 +37,9 @@
         "label": "Custos",
         "href": "https://github.com/Flavio-Paixao/seguros-horizonte-aws/blob/main/docs/COST-ANALYSIS.md"
       }
+    ],
+    "images": [
+      "/work/seguros-horizonte-1.png"
     ]
   },
   {
@@ -74,6 +77,9 @@
         "label": "Decisões",
         "href": "https://github.com/Flavio-Paixao/vitrine-modas-aws/blob/main/docs/DECISIONS.md"
       }
+    ],
+    "images": [
+      "/work/vitrine-modas-1.png"
     ]
   },
   {
@@ -114,6 +120,9 @@
         "label": "Custos",
         "href": "https://github.com/Flavio-Paixao/banco-rio-aws/blob/main/docs/COST-ANALYSIS.md"
       }
+    ],
+    "images": [
+      "/work/banco-rio-1.png"
     ]
   }
 ]
