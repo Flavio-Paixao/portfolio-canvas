@@ -1,36 +1,32 @@
 {
   "profile": {
-    "name": "Aahil Khan",
-    "initials": "AK",
-    "resumePdf": "/aahil-khan-resume.pdf",
-    "portrait": "/pfp/main.jpeg",
-    "portraitHidden": "/pfp/0ef906d3e7544052.jpeg",
+    "name": "Flávio da Paixão Nunes",
+    "initials": "FP",
     "role": {
-      "prefix": "Full stack engineer,",
-      "emphasis": "AI retrieval & agents"
+      "prefix": "Estudante de Engenharia de Software,",
+      "emphasis": "cloud e DevOps na AWS"
     },
-    "location": "Bareilly, India",
-    "availability": "",
-    "email": "aahilminookhan@gmail.com",
-    "intro": "I build AI stuff and anything else I find interesting, RAG pipelines, multi agent systems, Full Stack apps, and generally anything that looks shiny at 2AM in the morning :)",
+    "location": "Guarujá/Santos, SP",
+    "availability": "aberto a vagas CLT remotas",
+    "email": "flaviopaixao1992@gmail.com",
+    "intro": "Estudo Engenharia de Software e escrevo infraestrutura AWS em Terraform. Meus três cases são projetos de estudo, validados com terraform plan, e cada decisão vem explicada com o que ganhei e do que abri mão.",
     "notes": [
-      "Final year Computer Engineering at Thapar, with an IIT Madras Diploma in Programming under my belt, because apparently one courseload wasn't enough",
-      "Right now I split my time between two internships: building production AI systems at Oddmind Innovations, and working on accent invariant speech research with Samsung PRISM",
-      "I like building things, breaking them, and occasionally wondering why I decided to build them in the first place"
+      "Procuro uma vaga CLT remota em cloud, DevOps ou Python, numa empresa brasileira.",
+      "Estou me preparando para a AWS Certified Cloud Practitioner (CLF-C02), com prova marcada para 06/11/2026."
     ],
-    "deskWelcome": "Almost forgot, Welcome to the site! Leave a note if you like it :D",
+    "deskWelcome": "Seja bem-vindo! Se gostar do site, deixe um recado :)",
     "links": [
       {
         "label": "GitHub",
-        "href": "https://github.com/aahil-khan"
+        "href": "https://github.com/Flavio-Paixao"
       },
       {
         "label": "LinkedIn",
-        "href": "https://www.linkedin.com/in/aahil-khan77/"
+        "href": "https://www.linkedin.com/in/fl%C3%A1vio-paix%C3%A3o-083bb3415/"
       },
       {
-        "label": "Email",
-        "href": "mailto:aahilminookhan@gmail.com"
+        "label": "E-mail",
+        "href": "mailto:flaviopaixao1992@gmail.com"
       }
     ]
   },
