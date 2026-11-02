@@ -2,6 +2,8 @@
   "profile": {
     "name": "Flávio da Paixão Nunes",
     "initials": "FP",
+    "resumePdf": "/flavio-paixao-curriculo.pdf",
+    "portrait": "/pfp/flavio.jpeg",
     "role": {
       "prefix": "Estudante de Engenharia de Software,",
       "emphasis": "cloud e DevOps na AWS"
