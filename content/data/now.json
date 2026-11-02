@@ -1,19 +1,23 @@
 {
-  "updated": "2026-08",
-  "lede": "A snapshot, short and sweet.",
+  "updated": "2026-11",
+  "lede": "O que estou fazendo agora, em poucas linhas.",
   "items": [
     {
-      "label": "Building",
-      "what": "Holt, started as a simple CLI, evolved into a TUI, and is now being shipped as a full web dashboard."
+      "label": "Estudando",
+      "what": "Para a AWS Certified Cloud Practitioner (CLF-C02). A prova está marcada para 06/11/2026."
     },
     {
-      "label": "Also Looking into",
-      "what": "Gnome extensions, love 'em to death, going to publish some of my own too"
+      "label": "Construindo",
+      "what": "Este portfólio, com os três cases de arquitetura AWS: Seguros Horizonte, Vitrine Modas e Banco Rio."
     },
     {
-      "label": "Thinking about",
-      "what": "Increasing OSS contributions, boy is it getting competetive"
+      "label": "Procurando",
+      "what": "Uma vaga CLT remota em cloud, DevOps ou Python, numa empresa brasileira."
+    },
+    {
+      "label": "Cursando",
+      "what": "Engenharia de Software, com formatura prevista para 2028."
     }
   ],
-  "foot": "Borrowed from Derek Sivers, who has been telling people to keep one of these for years."
+  "foot": "A ideia de manter uma página \"agora\" é do Derek Sivers."
 }

@@ -1,118 +1,118 @@
 {
   "openTo": "",
   "headline": {
-    "lead": "Full-stack engineer building",
-    "emphasis": "AI retrieval and agent systems",
-    "tail": "that hold up in production."
+    "lead": "Escrevo",
+    "emphasis": "infraestrutura AWS em Terraform",
+    "tail": "e explico cada decisão."
   },
-  "seeWork": "See the work",
-  "toDesk": "There’s a far more fun version of this",
-  "toDeskBadge": "highly recommended",
+  "seeWork": "Ver os cases",
+  "toDesk": "Existe uma versão bem mais divertida deste site",
+  "toDeskBadge": "recomendo",
   "nav": {
-    "about": "About",
-    "skills": "Skills",
-    "experience": "Experience",
-    "work": "Work",
-    "contact": "Contact",
-    "desk": "The desk",
-    "sectionsLabel": "Sections",
-    "topLabel": "Top of page",
-    "openMenu": "Open menu",
-    "closeMenu": "Close menu",
-    "backToTop": "Back to top"
+    "about": "Sobre",
+    "skills": "Ferramentas",
+    "experience": "Trajetória",
+    "work": "Cases",
+    "contact": "Contato",
+    "desk": "A mesa",
+    "sectionsLabel": "Seções",
+    "topLabel": "Topo da página",
+    "openMenu": "Abrir menu",
+    "closeMenu": "Fechar menu",
+    "backToTop": "Voltar ao topo"
   },
   "resume": {
-    "short": "Résumé",
+    "short": "Currículo",
     "long": " PDF ↓"
   },
   "theme": {
-    "toDark": "Switch to dark",
-    "toLight": "Switch to light"
+    "toDark": "Mudar para o tema escuro",
+    "toLight": "Mudar para o tema claro"
   },
   "about": {
-    "eyebrow": "About",
-    "title": "Hi there!",
-    "portraitPending": "Portrait goes here",
-    "portraitAlt": "Aahil Khan"
+    "eyebrow": "Sobre",
+    "title": "Olá!",
+    "portraitPending": "Foto em breve",
+    "portraitAlt": "Flávio da Paixão Nunes"
   },
   "portraitEgg": {
     "taps": 10,
-    "question": "What's 2 + 2?",
-    "inputLabel": "Your answer",
-    "submit": "Answer",
-    "wrong": "Nope. Try again.",
-    "dismiss": "Never mind",
+    "question": "Qual é o código da região da AWS em São Paulo?",
+    "inputLabel": "Sua resposta",
+    "submit": "Responder",
+    "wrong": "Não é essa. Tente de novo.",
+    "dismiss": "Deixa pra lá",
     "answers": [
-      "aloo",
-      "aalu"
+      "sa-east-1",
+      "saeast1"
     ],
-    "caption": "sher bacha",
-    "hiddenAlt": "Aahil Khan, off duty",
-    "flipBack": "Flip back"
+    "caption": "fora do expediente",
+    "hiddenAlt": "Flávio da Paixão Nunes, fora do expediente",
+    "flipBack": "Desvirar"
   },
   "skills": {
-    "eyebrow": "Toolbox",
-    "title": "What I build with"
+    "eyebrow": "Ferramentas",
+    "title": "Com o que eu trabalho"
   },
   "experience": {
-    "eyebrow": "Experience",
-    "title": "Where I've been",
-    "indexLabel": "Roles",
-    "expand": "Show details",
-    "collapse": "Hide details"
+    "eyebrow": "Trajetória",
+    "title": "Por onde passei",
+    "indexLabel": "Itens",
+    "expand": "Ver detalhes",
+    "collapse": "Esconder detalhes"
   },
   "work": {
-    "eyebrow": "Selected work",
-    "title": "Four things worth opening",
-    "lede": "Each of these has a full write-up — highlights, stack, screenshots and links.",
-    "readMore": "Read the write-up",
-    "shotPending": "No screenshot yet"
+    "eyebrow": "Cases",
+    "title": "Três arquiteturas AWS, do diagrama ao terraform plan",
+    "lede": "Projetos de estudo com empresas fictícias. Cada case tem sua página: o que está no Terraform, o que ficou só no desenho, a estimativa de custo e o link para o código.",
+    "readMore": "Ver o case",
+    "shotPending": "Diagrama em breve"
   },
   "credentials": {
-    "eyebrow": "The rest of it",
-    "title": "Education, awards, writing",
-    "education": "Education",
-    "awards": "Awards",
-    "writing": "Writing"
+    "eyebrow": "Além dos cases",
+    "title": "Formação, certificações e textos",
+    "education": "Formação",
+    "awards": "Certificações",
+    "writing": "Textos"
   },
   "closer": {
-    "eyebrow": "Contact",
-    "title": "Let's build\nsomething.",
-    "body": "Open for cool builds and interesting problems. The fastest way to reach me is email, I answer all of them.",
-    "plainVersion": "Plain text version"
+    "eyebrow": "Contato",
+    "title": "Vamos\nconversar?",
+    "body": "Procuro uma vaga CLT remota em cloud, DevOps ou Python. O jeito mais rápido de falar comigo é por e-mail.",
+    "plainVersion": "Versão em texto simples"
   },
   "door": {
-    "title": "Oh, and this page is the boring half.",
-    "body": "The main portfolio is finished. This one is a little less serious. There's a canvas, beautiful cards, a few games, lofi, and probably more than there needs to be.",
-    "scores": "Some of it keeps score. Try not to take that personally.",
-    "hidden": "There are things here that aren't meant to be obvious. If you find one, you find one.",
-    "action": "Open the canvas",
-    "note": "Only Desktops supported. This place has a lot going on."
+    "title": "Ah, e esta página é a metade séria.",
+    "body": "A outra metade é menos formal: uma tela infinita com janelas, alguns jogos, música lofi e provavelmente mais coisa do que precisava.",
+    "scores": "Alguns jogos contam pontos. Não leve para o lado pessoal.",
+    "hidden": "Tem coisas escondidas por lá. Se achar uma, achou.",
+    "action": "Abrir a tela",
+    "note": "Só funciona no computador. Tem muita coisa acontecendo ali."
   },
   "footer": {
-    "note": "Thanks for scrolling all the way down :)",
-    "inspiredLead": "Inspired by",
-    "inspiredShell": "yevtam.com",
-    "inspiredShellUrl": "https://yevtam.com",
-    "inspiredShellFor": "(dock, cursor)",
-    "inspiredJoin": "and",
-    "inspiredSurface": "ajvadlaseen.com",
-    "inspiredSurfaceUrl": "https://ajvadlaseen.com",
-    "inspiredSurfaceFor": "(type, borders, shadows)",
-    "inspiredRest": "Everything else is mine."
+    "note": "Obrigado por rolar até o fim :)",
+    "inspiredLead": "Design inspirado em",
+    "inspiredShell": "aahil-khan.xyz",
+    "inspiredShellUrl": "https://aahil-khan.xyz",
+    "inspiredShellFor": "(template de código aberto, licença MIT)",
+    "inspiredJoin": "· código deste site no",
+    "inspiredSurface": "GitHub",
+    "inspiredSurfaceUrl": "https://github.com/Flavio-Paixao/portfolio-canvas",
+    "inspiredSurfaceFor": "(portfolio-canvas)",
+    "inspiredRest": "Os textos e os cases são meus."
   },
   "desk": {
-    "exit": "The site",
-    "tabSuffix": "the canvas"
+    "exit": "O site",
+    "tabSuffix": "a tela"
   },
   "workPage": {
-    "allWork": "All work",
-    "home": "Home",
-    "indexTitle": "Work",
-    "indexLede": "Every project, as its own page — linkable, indexable, and readable without JavaScript.",
-    "whatItDoes": "What it does",
-    "builtWith": "Built with",
-    "shots": "Screenshots",
-    "backToWork": "Back to all work"
+    "allWork": "Todos os cases",
+    "home": "Início",
+    "indexTitle": "Cases",
+    "indexLede": "Cada case em uma página própria, com link direto e legível sem JavaScript.",
+    "whatItDoes": "O que tem no case",
+    "builtWith": "Feito com",
+    "shots": "Diagramas",
+    "backToWork": "Voltar para os cases"
   }
 }

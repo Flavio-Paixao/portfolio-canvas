@@ -1,18 +1,26 @@
 [
   {
-    "slug": "chrome-hackathon",
-    "title": "Chrome Already Built Our Idea.",
-    "blurb": "We won the hackathon anyway.",
+    "slug": "decisoes-seguros-horizonte",
+    "title": "Decisões de arquitetura: Seguros Horizonte",
+    "blurb": "O porquê de cada escolha em rede, IAM, KMS, Aurora, ALB e S3, com o que ficou fraco",
     "year": 2026,
-    "readingTime": "6 min",
-    "href": "https://medium.com/@aahilminookhan/chrome-already-built-our-idea-we-won-the-hackathon-anyway-fdf2d3c9e219"
+    "readingTime": "24 min",
+    "href": "https://github.com/Flavio-Paixao/seguros-horizonte-aws/blob/main/docs/DECISIONS.md"
   },
   {
-    "slug": "old-laptop-cloud",
-    "title": "An Old Laptop as a Cloud Server",
-    "blurb": "Self-hosting, end to end.",
-    "year": 2025,
-    "readingTime": "8 min",
-    "href": "https://medium.com/@aahilminookhan/how-i-turned-an-old-laptop-into-my-personal-cloud-server-16d07de27399"
+    "slug": "decisoes-vitrine-modas",
+    "title": "Decisões de arquitetura: Vitrine Modas",
+    "blurb": "Um e-commerce serverless decidido serviço por serviço, e o que ficou de fora",
+    "year": 2026,
+    "readingTime": "19 min",
+    "href": "https://github.com/Flavio-Paixao/vitrine-modas-aws/blob/main/docs/DECISIONS.md"
+  },
+  {
+    "slug": "decisoes-banco-rio",
+    "title": "Decisões de projeto: Banco Rio",
+    "blurb": "Alta disponibilidade e DR entre duas regiões, com motivos e trade-offs",
+    "year": 2026,
+    "readingTime": "22 min",
+    "href": "https://github.com/Flavio-Paixao/banco-rio-aws/blob/main/docs/DECISIONS.md"
   }
 ]
