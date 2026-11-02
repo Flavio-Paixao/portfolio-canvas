@@ -56,7 +56,7 @@
       "**Codificado:** EventBridge, fila SQS com DLQ e tópico SNS para os eventos de catálogo e pedidos.",
       "**Codificado:** CloudFront com OAC na frente do bucket S3; 3 chaves KMS próprias.",
       "**Codificado:** 7 alarmes e um dashboard no CloudWatch, X-Ray e orçamento no AWS Budgets.",
-      "Testes das Lambdas com **pytest + moto**, rodando no CI junto com fmt, validate, tflint e checkov.",
+      "Resultado do plan: **108 to add**. Testes das Lambdas com **pytest + moto**, rodando no CI junto com fmt, validate, tflint e checkov.",
       "Custo: o repositório traz o método de estimativa por serviço, sem um total em dólar."
     ],
     "stack": [

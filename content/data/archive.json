@@ -30,7 +30,7 @@
     "id": "vitrine-modas",
     "kind": "built",
     "title": "Vitrine Modas",
-    "meta": "Terraform · 9 módulos · 5 Lambdas em Python",
+    "meta": "Terraform · 9 módulos · Plan: 108 to add",
     "note": "E-commerce fictício e serverless: API Gateway, Lambda, DynamoDB, Cognito, EventBridge, SQS e CloudFront. Testes com pytest e moto. Validado com terraform plan, sem apply.",
     "href": "https://github.com/Flavio-Paixao/vitrine-modas-aws",
     "when": "Nov 2026"
