@@ -8,7 +8,7 @@
     },
     "location": "Guarujá/Santos, SP",
     "availability": "aberto a vagas CLT remotas",
-    "email": "flavio@example.com",
+    "email": "flaviopaixao1992@gmail.com",
     "intro": "Estudo Engenharia de Software e escrevo infraestrutura AWS em Terraform. Meus três cases são projetos de estudo, validados com terraform plan, e cada decisão vem explicada com o que ganhei e do que abri mão.",
     "notes": [
       "Procuro uma vaga CLT remota em cloud, DevOps ou Python, numa empresa brasileira.",
@@ -21,8 +21,12 @@
         "href": "https://github.com/Flavio-Paixao"
       },
       {
+        "label": "LinkedIn",
+        "href": "https://www.linkedin.com/in/fl%C3%A1vio-paix%C3%A3o-083bb3415/"
+      },
+      {
         "label": "E-mail",
-        "href": "mailto:flavio@example.com"
+        "href": "mailto:flaviopaixao1992@gmail.com"
       }
     ]
   },
