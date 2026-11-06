@@ -1,6 +1,6 @@
 {
   "profile": {
-    "name": "Flávio da Paixão Nunes",
+    "name": "Flávio Paixão",
     "initials": "FP",
     "resumePdf": "/flavio-paixao-curriculo.pdf",
     "portrait": "/pfp/flavio.jpeg",
@@ -14,7 +14,7 @@
     "intro": "Estudo Engenharia de Software e escrevo infraestrutura AWS em Terraform. Meus três cases são projetos de estudo, validados com terraform plan, e cada decisão vem explicada com o que ganhei e do que abri mão.",
     "notes": [
       "Procuro uma vaga CLT remota em cloud, DevOps ou Python, numa empresa brasileira.",
-      "Estou me preparando para a AWS Certified Cloud Practitioner (CLF-C02), com prova marcada para 06/11/2026."
+      "Sou AWS Certified Cloud Practitioner (CLF-C02) desde novembro de 2026. Próximo passo: AWS Solutions Architect Associate."
     ],
     "deskWelcome": "Seja bem-vindo! Se gostar do site, deixe um recado :)",
     "links": [
