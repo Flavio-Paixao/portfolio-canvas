@@ -5,7 +5,7 @@
     "emphasis": "infraestrutura AWS em Terraform",
     "tail": "e explico cada decisão."
   },
-  "seeWork": "Ver os cases",
+  "seeWork": "Ver os projetos",
   "toDesk": "Existe uma versão bem mais divertida deste site",
   "toDeskBadge": "recomendo",
   "nav": {
@@ -63,8 +63,8 @@
   },
   "work": {
     "eyebrow": "Cases",
-    "title": "Três arquiteturas AWS, do diagrama ao terraform plan",
-    "lede": "Projetos de estudo com empresas fictícias. Cada case tem sua página: o que está no Terraform, o que ficou só no desenho, a estimativa de custo e o link para o código.",
+    "title": "Três arquiteturas AWS e um serviço em Kubernetes",
+    "lede": "Projetos de estudo. Cada um tem sua página: o que foi construído, o que ficou de fora, os números que medi ou estimei e o link para o código.",
     "readMore": "Ver o case",
     "shotPending": "Diagrama em breve"
   },
@@ -78,7 +78,7 @@
   "closer": {
     "eyebrow": "Contato",
     "title": "Vamos\nconversar?",
-    "body": "Procuro uma vaga CLT remota em cloud, DevOps ou Python. O jeito mais rápido de falar comigo é por e-mail.",
+    "body": "O jeito mais rápido de falar comigo é por e-mail.",
     "plainVersion": "Versão em texto simples"
   },
   "door": {

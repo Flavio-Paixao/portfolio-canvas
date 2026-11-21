@@ -9,11 +9,10 @@
       "emphasis": "cloud e DevOps na AWS"
     },
     "location": "Guarujá/Santos, SP",
-    "availability": "aberto a vagas CLT remotas",
+    "availability": "",
     "email": "flaviopaixao1992@gmail.com",
-    "intro": "Estudo Engenharia de Software e escrevo infraestrutura AWS em Terraform. Meus três cases são projetos de estudo, validados com terraform plan, e cada decisão vem explicada com o que ganhei e do que abri mão.",
+    "intro": "Estudo Engenharia de Software e escrevo infraestrutura AWS em Terraform. Meus três cases são projetos de estudo, validados com terraform plan, e o StatusHub é um serviço em Go que empacotei com Docker e operei em Kubernetes local. Cada decisão vem explicada com o que ganhei e do que abri mão.",
     "notes": [
-      "Procuro uma vaga CLT remota em cloud, DevOps ou Python, numa empresa brasileira.",
       "Sou AWS Certified Cloud Practitioner (CLF-C02) desde novembro de 2026. Próximo passo: AWS Solutions Architect Associate."
     ],
     "deskWelcome": "Seja bem-vindo! Se gostar do site, deixe um recado :)",

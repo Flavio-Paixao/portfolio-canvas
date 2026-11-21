@@ -18,11 +18,34 @@
     ]
   },
   {
-    "label": "Linguagem e testes",
+    "label": "Containers e Kubernetes",
+    "tools": [
+      {
+        "name": "Docker",
+        "logo": "/logos/docker-original.svg"
+      },
+      {
+        "name": "Kubernetes",
+        "logo": "/logos/kubernetes-original.svg"
+      },
+      {
+        "name": "Kind"
+      },
+      {
+        "name": "kubectl"
+      }
+    ]
+  },
+  {
+    "label": "Linguagens e testes",
     "tools": [
       {
         "name": "Python",
         "logo": "/logos/python-original.svg"
+      },
+      {
+        "name": "Go",
+        "logo": "/logos/go-original.svg"
       },
       {
         "name": "pytest"

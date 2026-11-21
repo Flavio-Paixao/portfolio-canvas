@@ -124,5 +124,39 @@
     "images": [
       "/work/banco-rio-1.png"
     ]
+  },
+  {
+    "slug": "statushub",
+    "name": "StatusHub",
+    "tagline": "Monitor de sites em Go, empacotado com Docker e rodando em Kubernetes",
+    "year": 2026,
+    "kind": "System",
+    "meta": "2026 · Projeto de estudo · Go, Docker, Kubernetes local (Kind)",
+    "lede": "Um serviço em Go que verifica de tempos em tempos se uma lista de sites está no ar e mostra o resultado numa página HTML e numa API JSON, empacotado em Docker e operado num cluster Kubernetes local com Kind.",
+    "highlights": [
+      "**Go:** uma goroutine por alvo com sync.WaitGroup, resultados protegidos por RWMutex e http.Client com timeout de 5 s.",
+      "**Go:** graceful shutdown com signal.NotifyContext: no SIGTERM, o servidor termina os pedidos em andamento em até 10 s.",
+      "**Docker:** Dockerfile multi-stage, binário estático e imagem final **distroless** com usuário não-root e sem shell. A imagem ficou com **4,88 MB** compactada.",
+      "**Docker:** com o cache de camadas, o build caiu de **107 s para 6,7 s**.",
+      "**Kubernetes:** Deployment com 2 réplicas, Service ClusterIP, probes de liveness (/healthz) e readiness (/readyz), requests e limits de CPU e memória e a lista de alvos num ConfigMap.",
+      "**Operação:** escalei réplicas, apaguei Pods para ver a autocura e simulei um deploy quebrado (ErrImagePull). O serviço continuou no ar e voltei com rollout undo.",
+      "CI no GitHub Actions com gofmt, go vet, go test -race e docker build. Documentação com ARCHITECTURE, DECISIONS e RUNBOOK.",
+      "Roda só no meu computador, em Kubernetes local: os números acima são os que medi lá, sem nenhuma métrica de produção."
+    ],
+    "stack": [
+      "Go",
+      "Docker",
+      "Kubernetes",
+      "Kind",
+      "kubectl",
+      "GitHub Actions",
+      "Jira"
+    ],
+    "links": [
+      {
+        "label": "Repositório",
+        "href": "https://github.com/Flavio-Paixao/statushub"
+      }
+    ]
   }
 ]
