@@ -2,22 +2,26 @@
   "jobs": [
     {
       "slug": "portfolio-aws",
-      "role": "Projetos de estudo em arquitetura AWS",
+      "role": "Projetos de estudo em cloud e DevOps",
       "company": "Portfólio de cloud",
       "period": "Out 2026 – hoje",
       "year": 2026,
       "meta": "Estudo independente · Guarujá/Santos (SP), remoto",
-      "lede": "Três cases com empresas fictícias, do diagrama ao terraform plan, organizados como um trabalho de verdade.",
+      "lede": "Três cases de arquitetura AWS com empresas fictícias, do diagrama ao terraform plan, e o StatusHub, um serviço em Go operado em Kubernetes local, organizados como um trabalho de verdade.",
       "highlights": [
         "Cada case tem backlog no **Jira** (chaves KAN, VTM e BRI), dividido em fases com entregas pequenas.",
         "Todo Pull Request passa por **CI no GitHub Actions**: terraform fmt, validate, tflint e checkov (e pytest no Vitrine Modas).",
         "Cada escolha está registrada com motivo, alternativa descartada e trade-off, incluindo o que ficou fraco.",
+        "No **StatusHub**, empacotei um serviço Go em Docker distroless e operei em Kubernetes (Kind): escala, autocura, probes e rollback de um deploy quebrado.",
         "Nada foi aplicado na AWS: os custos são estimativas sobre preços de lista e nenhum número de disponibilidade foi medido."
       ],
       "stack": [
         "AWS",
         "Terraform",
         "Python",
+        "Go",
+        "Docker",
+        "Kubernetes",
         "GitHub Actions",
         "Jira"
       ]
