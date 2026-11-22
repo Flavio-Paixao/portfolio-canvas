@@ -152,6 +152,9 @@
       "GitHub Actions",
       "Jira"
     ],
+    "images": [
+      "/work/statushub-1.png"
+    ],
     "links": [
       {
         "label": "Repositório",
